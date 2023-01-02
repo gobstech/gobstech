@@ -2,7 +2,7 @@
 - 👀 I’m interested in always learning new things in computer science.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on an app development.
-- 📫 How to reach me: gobstech.github.io or email gabwebdev532@gmail.com
+- 📫 How to reach me: https://gobstech.github.io or email gabwebdev532@gmail.com
 
 <!---
 gobstech/gobstech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
